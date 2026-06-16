@@ -131,10 +131,10 @@ Dark mode support
 
 ### Screenshots
 Dashboard View
-https://screenshot-1.png
+https://drive.google.com/file/d/1J_AxAO6xs2MP_gB3gau4ruZrrEILxB1O/view?usp=sharing
 
 AI Explanation
-https://screenshot-2.png
+https://drive.google.com/file/d/1NYiWtnfWl2RQ17i6LaHvP_Oni9gzKBIh/view?usp=sharing
 
 ### Author
 Komal
